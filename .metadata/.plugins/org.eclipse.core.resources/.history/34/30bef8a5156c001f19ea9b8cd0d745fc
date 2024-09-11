@@ -1,0 +1,11 @@
+package com.iter.controller;
+
+public class TestController {
+	
+	
+	public String display()
+	{
+		return "Welcome to Java Spring Boot";
+	}
+
+}
