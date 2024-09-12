@@ -1,0 +1,8 @@
+package com.jpa.controller;
+// Difference between @RestController and @Controller
+
+// It deals with JSON Data
+@ReastController
+public class EmployeeController {
+
+}
