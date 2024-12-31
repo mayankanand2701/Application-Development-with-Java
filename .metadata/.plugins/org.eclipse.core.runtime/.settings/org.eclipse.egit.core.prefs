@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=E\:\\GitHub Folders\\ADP\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=E\:\\ADP Project\\Job-Portal\\.git;E\:\\ADP Project\\Spring-boot-project\\.git;E\:\\Student-Management-System(1)\\.git;E\:\\ADP Project\\Student-Management-System\\.git;E\:\\GitHub Folders\\ADP\\.git;D\:\\ADP Project\\Backend\\.git;E\:\\ADP Project\\Student-Database-Management-System-using-JAVA-Spring-Boot\\.git;
+GitRepositoriesView.GitDirectories.relative=E\:\\ADP Project\\Job-Portal\\.git;E\:\\ADP Project\\Spring-boot-project\\.git;E\:\\Student-Management-System(1)\\.git;E\:\\ADP Project\\Student-Management-System\\.git;.git;D\:\\ADP Project\\Backend\\.git;E\:\\ADP Project\\Student-Database-Management-System-using-JAVA-Spring-Boot\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
